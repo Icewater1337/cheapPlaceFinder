@@ -1,0 +1,495 @@
+Rang	Ort	Kanton	Steuersatz
+1801	Bercher	VD	16.05
+1802	Chapelle (Glâne)	FR	16.05
+1803	Chavannes-près-Renens	VD	16.05
+1804	Chêne-Pâquier	VD	16.05
+1805	Courtepin	FR	16.05
+1806	Dizy	VD	16.05
+1807	Dulliken	SO	16.05
+1808	Ependes (FR)	FR	16.05
+1809	Hofstetten-Flüh	SO	16.05
+1810	Juriens	VD	16.05
+1811	Lausanne	VD	16.05
+1812	Marchissy	VD	16.05
+1813	Safnern	BE	16.05
+1814	Villarsel-sur-Marly	FR	16.05
+1815	Vucherens	VD	16.05
+1816	Wangen bei Olten	SO	16.05
+1817	Boulens	VD	16.06
+1818	Cronay	VD	16.06
+1819	Cuarny	VD	16.06
+1820	Orzens	VD	16.06
+1821	Rapperswil (BE)	BE	16.06
+1822	Schüpfen	BE	16.06
+1823	Valeyres-sous-Ursins	VD	16.06
+1824	Villarzel	VD	16.06
+1825	Wittenbach	SG	16.06
+1826	Farnern	BE	16.07
+1827	Le Noirmont	JU	16.07
+1828	Rumisberg	BE	16.07
+1829	Vechigen	BE	16.07
+1830	Burg im Leimental	BL	16.08
+1831	Dotzigen	BE	16.08
+1832	Hochwald	SO	16.09
+1833	Le Pâquier (FR)	FR	16.09
+1834	Sigriswil	BE	16.09
+1835	Grandcour	VD	16.10
+1836	Konolfingen	BE	16.10
+1837	Niederhünigen	BE	16.10
+1838	Champéry	VS	16.11
+1839	Erlenbach im Simmental	BE	16.11
+1840	Hagneck	BE	16.11
+1841	Isérables	VS	16.11
+1842	Lyss	BE	16.11
+1843	Nidau	BE	16.11
+1844	Villeret	BE	16.11
+1845	Bournens	VD	16.12
+1846	Burtigny	VD	16.12
+1847	Deitingen	SO	16.12
+1848	Nesslau	SG	16.12
+1849	Saubraz	VD	16.12
+1850	Schänis	SG	16.12
+1851	St. Gallen	SG	16.12
+1852	Täsch	VS	16.12
+1853	Bussy-sur-Moudon	VD	16.13
+1854	Corserey	FR	16.13
+1855	Dompierre (VD)	VD	16.13
+1856	Heitenried	FR	16.13
+1857	La Verrerie	FR	16.13
+1858	Les Clées	VD	16.13
+1859	Lignerolle	VD	16.13
+1860	Remaufens	FR	16.13
+1861	Saint-Martin (FR)	FR	16.13
+1862	Trey	VD	16.13
+1863	Waldenburg	BL	16.13
+1864	Aeschi bei Spiez	BE	16.14
+1865	Bargen (BE)	BE	16.14
+1866	Krattigen	BE	16.14
+1867	Neckertal	SG	16.14
+1868	Radelfingen	BE	16.14
+1869	Senèdes	FR	16.14
+1870	Delémont	JU	16.16
+1871	Grossaffoltern	BE	16.16
+1872	Neuendorf	SO	16.16
+1873	Benken (SG)	SG	16.17
+1874	Mosnang	SG	16.17
+1875	Thun	BE	16.17
+1876	Uznach	SG	16.17
+1877	Zäziwil	BE	16.17
+1878	Boltigen	BE	16.18
+1879	Champoz	BE	16.18
+1880	Därstetten	BE	16.18
+1881	Eggerberg	VS	16.18
+1882	Gempen	SO	16.18
+1883	Kappel (SO)	SO	16.18
+1884	Kestenholz	SO	16.18
+1885	Lauenen	BE	16.18
+1886	Melchnau	BE	16.18
+1887	Saas-Fee	VS	16.18
+1888	Saas-Grund	VS	16.18
+1889	Sutz-Lattrigen	BE	16.18
+1890	Thierachern	BE	16.18
+1891	Worb	BE	16.18
+1892	Auswil	BE	16.19
+1893	Fraubrunnen	BE	16.19
+1894	Longirod	VD	16.19
+1895	Moiry	VD	16.19
+1896	Oppens	VD	16.19
+1897	Premier	VD	16.19
+1898	Rossinière	VD	16.19
+1899	Rümligen	BE	16.19
+1900	Saint-Oyens	VD	16.19
+1901	Vaulion	VD	16.19
+1902	Wünnewil-Flamatt	FR	16.19
+1903	Démoret	VD	16.20
+1904	L'Abergement	VD	16.20
+1905	Molondin	VD	16.20
+1906	Nuvilly	FR	16.20
+1907	Provence	VD	16.20
+1908	Romont (FR)	FR	16.21
+1909	Villarepos	FR	16.21
+1910	Brenzikofen	BE	16.22
+1911	Günsberg	SO	16.22
+1912	Stüsslingen	SO	16.22
+1913	Wolfwil	SO	16.22
+1914	Altstätten	SG	16.23
+1915	Ebnat-Kappel	SG	16.23
+1916	Jonschwil	SG	16.23
+1917	Seedorf (BE)	BE	16.23
+1918	Pohlern	BE	16.24
+1919	Prévondavaux	FR	16.24
+1920	Rüti bei Lyssach	BE	16.24
+1921	Horrenbach-Buchen	BE	16.25
+1922	Interlaken	BE	16.25
+1923	Rodersdorf	SO	16.25
+1924	Wangenried	BE	16.26
+1925	Rohr (SO)	SO	16.27
+1926	Saint-Martin (VS)	VS	16.28
+1927	Wiler (Lötschen)	VS	16.28
+1928	Autigny	FR	16.29
+1929	Biezwil	SO	16.29
+1930	Cugy (FR)	FR	16.29
+1931	Gams	SG	16.29
+1932	Golaten	BE	16.29
+1933	Kriegstetten	SO	16.29
+1934	Misery-Courtion	FR	16.29
+1935	Oekingen	SO	16.29
+1936	Ponthaux	FR	16.29
+1937	Rorschach	SG	16.29
+1938	Thunstetten	BE	16.29
+1939	Unterseen	BE	16.29
+1940	Wald (BE)	BE	16.29
+1941	Aegerten	BE	16.30
+1942	Grandval	BE	16.30
+1943	Hofstetten bei Brienz	BE	16.30
+1944	Leuzigen	BE	16.30
+1945	Ménières	FR	16.30
+1946	Mont-Tramelan	BE	16.30
+1947	Oberwil im Simmental	BE	16.30
+1948	Seehof	BE	16.30
+1949	Bellach	SO	16.32
+1950	Bühl	BE	16.32
+1951	Grindelwald	BE	16.32
+1952	Obergösgen	SO	16.32
+1953	Tägertschi	BE	16.32
+1954	Affoltern im Emmental	BE	16.33
+1955	Château-d'Oex	VD	16.33
+1956	Därligen	BE	16.33
+1957	La Brillaz	FR	16.33
+1958	Vuisternens-devant-Romont	FR	16.33
+1959	Arch	BE	16.34
+1960	Biglen	BE	16.34
+1961	Blumenstein	BE	16.34
+1962	Ecublens (FR)	FR	16.34
+1963	Hemberg	SG	16.34
+1964	Kriechenwil	BE	16.34
+1965	La Praz	VD	16.34
+1966	Niederbüren	SG	16.34
+1967	Oberbalm	BE	16.34
+1968	Reutigen	BE	16.34
+1969	Schwanden bei Brienz	BE	16.34
+1970	Ueberstorf	FR	16.34
+1971	Ursenbach	BE	16.34
+1972	Vilters-Wangs	SG	16.34
+1973	Wildhaus-Alt St. Johann	SG	16.34
+1974	Eggiwil	BE	16.35
+1975	Freimettigen	BE	16.35
+1976	Kaufdorf	BE	16.35
+1977	Krauchthal	BE	16.35
+1978	Villeneuve (FR)	FR	16.35
+1979	Amsoldingen	BE	16.36
+1980	Drei Höfe	SO	16.36
+1981	Grenchen	SO	16.36
+1982	Horriwil	SO	16.36
+1983	Ringgenberg (BE)	BE	16.37
+1984	Saint-Gingolph	VS	16.37
+1985	Obersteckholz	BE	16.38
+1986	Seftigen	BE	16.38
+1987	Vernay	FR	16.38
+1988	Wallenried	FR	16.38
+1989	Mirchel	BE	16.39
+1990	Diessbach bei Büren	BE	16.40
+1991	Flums	SG	16.40
+1992	Reichenbach im Kandertal	BE	16.40
+1993	Tartegnin	VD	16.40
+1994	Treytorrens (Payerne)	VD	16.40
+1995	Kirchenthurnen	BE	16.41
+1996	Corgémont	BE	16.42
+1997	Nuglar-St. Pantaleon	SO	16.42
+1998	Saint-Imier	BE	16.42
+1999	Zweisimmen	BE	16.43
+2000	Ausserberg	VS	16.44
+2001	Hermrigen	BE	16.44
+2002	Biberist	SO	16.45
+2003	Trimbach	SO	16.45
+2004	Barberêche	FR	16.46
+2005	Bossonnens	FR	16.46
+2006	Cheiry	FR	16.46
+2007	Flawil	SG	16.46
+2008	Nunningen	SO	16.46
+2009	St. Antoni	FR	16.46
+2010	Surpierre	FR	16.46
+2011	Fahrni	BE	16.47
+2012	Schnottwil	SO	16.47
+2013	Sumiswald	BE	16.47
+2014	Treyvaux	FR	16.47
+2015	Bönigen	BE	16.48
+2016	Flumenthal	SO	16.48
+2017	Le Bémont (JU)	JU	16.48
+2018	Lützelflüh	BE	16.48
+2019	Riggisberg	BE	16.49
+2020	Winznau	SO	16.49
+2021	Diemtigen	BE	16.50
+2022	Finsterhennen	BE	16.50
+2023	Gondiswil	BE	16.50
+2024	Siselen	BE	16.50
+2025	Lauperswil	BE	16.51
+2026	Pfäfers	SG	16.51
+2027	Plateau de Diesse	BE	16.51
+2028	Soyhières	JU	16.52
+2029	Brienz (BE)	BE	16.53
+2030	Leissigen	BE	16.53
+2031	Saas-Almagell	VS	16.53
+2032	Broc	FR	16.54
+2033	Fétigny	FR	16.54
+2034	Rechthalten	FR	16.54
+2035	Ferenbalm	BE	16.55
+2036	Zuchwil	SO	16.55
+2037	Develier	JU	16.56
+2038	Mötschwil	BE	16.56
+2039	Buchholterberg	BE	16.57
+2040	Fontenais	JU	16.57
+2041	Sorvilier	BE	16.57
+2042	Teuffenthal (BE)	BE	16.57
+2043	Unterlangenegg	BE	16.57
+2044	Balsthal	SO	16.58
+2045	Blatten	VS	16.58
+2046	Etziken	SO	16.58
+2047	Kippel	VS	16.58
+2048	Messen	SO	16.58
+2049	Oberdorf (SO)	SO	16.58
+2050	Recherswil	SO	16.58
+2051	Wileroltigen	BE	16.58
+2052	Les Agettes	VS	16.59
+2053	Wynigen	BE	16.59
+2054	Frutigen	BE	16.60
+2055	Kandersteg	BE	16.60
+2056	Sauge	BE	16.60
+2057	Schlosswil	BE	16.60
+2058	Gsteigwiler	BE	16.61
+2059	Niedermuhlern	BE	16.61
+2060	Val-de-Charmey	FR	16.61
+2061	Bättwil	SO	16.62
+2062	Himmelried	SO	16.62
+2063	Mézières (FR)	FR	16.62
+2064	Brienzwiler	BE	16.63
+2065	Dürrenroth	BE	16.63
+2066	Heimiswil	BE	16.63
+2067	Müntschemier	BE	16.63
+2068	Oberhelfenschwil	SG	16.63
+2069	Saules (BE)	BE	16.63
+2070	St. Stephan	BE	16.63
+2071	Trub	BE	16.63
+2072	Boécourt	JU	16.64
+2073	Les Genevez (JU)	JU	16.64
+2074	Murist	FR	16.64
+2075	Courrendlin	JU	16.65
+2076	Brüttelen	BE	16.66
+2077	Habkern	BE	16.66
+2078	Höchstetten	BE	16.66
+2079	Jens	BE	16.66
+2080	Reisiswil	BE	16.66
+2081	Schwadernau	BE	16.66
+2082	Willadingen	BE	16.66
+2083	Gerlafingen	SO	16.67
+2084	Gündlischwand	BE	16.67
+2085	Gurbrü	BE	16.67
+2086	Gurzelen	BE	16.67
+2087	Iseltwald	BE	16.67
+2088	Heiligenschwendi	BE	16.69
+2089	Le Flon	FR	16.69
+2090	Scheuren	BE	16.69
+2091	Schwarzenburg	BE	16.69
+2092	Walterswil (BE)	BE	16.69
+2093	Wachseldorn	BE	16.70
+2094	Büren (SO)	SO	16.71
+2095	Lommiswil	SO	16.71
+2096	Walterswil (SO)	SO	16.71
+2097	Zwieselberg	BE	16.71
+2098	Bowil	BE	16.72
+2099	Ferden	VS	16.72
+2100	Grächen	VS	16.72
+2101	Wolfisberg	BE	16.72
+2102	Clavaleyres	BE	16.73
+2103	Porrentruy	JU	16.73
+2104	Eriz	BE	16.74
+2105	Schwendibach	BE	16.75
+2106	Epsach	BE	16.76
+2107	Hasle bei Burgdorf	BE	16.76
+2108	Kandergrund	BE	16.76
+2109	Trachselwald	BE	16.76
+2110	Leukerbad	VS	16.77
+2111	Lohnstorf	BE	16.77
+2112	Matten bei Interlaken	BE	16.77
+2113	Rüeggisberg	BE	16.77
+2114	Wisen (SO)	SO	16.77
+2115	Laupersdorf	SO	16.78
+2116	Stocken-Höfen	BE	16.78
+2117	Koppigen	BE	16.79
+2118	Orvin	BE	16.79
+2119	Wartau	SG	16.79
+2120	Courgenay	JU	16.80
+2121	Langnau im Emmental	BE	16.80
+2122	Rohrbachgraben	BE	16.80
+2123	Signau	BE	16.80
+2124	Sonceboz-Sombeval	BE	16.80
+2125	Wattenwil	BE	16.80
+2126	Tavannes	BE	16.81
+2127	Bärschwil	SO	16.82
+2128	Eriswil	BE	16.82
+2129	Fehren	SO	16.82
+2130	Hellsau	BE	16.82
+2131	Rossemaison	JU	16.82
+2132	Schangnau	BE	16.82
+2133	Subingen	SO	16.82
+2134	Wyssachen	BE	16.82
+2135	Ederswiler	JU	16.83
+2136	Burgistein	BE	16.84
+2137	Meinisberg	BE	16.86
+2138	Orpund	BE	16.86
+2139	Courchavon	JU	16.87
+2140	Homberg	BE	16.87
+2141	Massonnens	FR	16.88
+2142	Haute-Sorne	JU	16.89
+2143	La Chaux-des-Breuleux	JU	16.89
+2144	Oberhünigen	BE	16.89
+2145	Hauenstein-Ifenthal	SO	16.91
+2146	Saicourt	BE	16.91
+2147	Belprahon	BE	16.92
+2148	Lenk	BE	16.92
+2149	Petit-Val	BE	16.92
+2150	Bolken	SO	16.93
+2151	Luterbach	SO	16.93
+2152	Beinwil (SO)	SO	16.94
+2153	Brünisried	FR	16.95
+2154	Corcelles (BE)	BE	16.95
+2155	Crémines	BE	16.95
+2156	Eschert	BE	16.95
+2157	Haut-Intyamon	FR	16.95
+2158	Linden	BE	16.95
+2159	Loveresse	BE	16.95
+2160	Meiringen	BE	16.95
+2161	Moutier	BE	16.95
+2162	Plasselb	FR	16.95
+2163	Roches (BE)	BE	16.95
+2164	Tramelan	BE	16.95
+2165	Adelboden	BE	16.97
+2166	Bonfol	JU	16.97
+2167	Saignelégier	JU	16.97
+2168	Seewen	SO	16.97
+2169	Trubschachen	BE	16.97
+2170	Alchenstorf	BE	16.99
+2171	Merzligen	BE	16.99
+2172	Oberburg	BE	16.99
+2173	Grindel	SO	17.01
+2174	Kleinlützel	SO	17.01
+2175	Court	BE	17.03
+2176	La Ferrière	BE	17.03
+2177	St. Silvester	FR	17.03
+2178	Cornol	JU	17.04
+2179	Haute-Ajoie	JU	17.04
+2180	Mümliswil-Ramiswil	SO	17.04
+2181	Reconvilier	BE	17.05
+2182	Oberlangenegg	BE	17.06
+2183	Metzerlen-Mariastein	SO	17.07
+2184	Oberwil bei Büren	BE	17.07
+2185	Derendingen	SO	17.08
+2186	Courroux	JU	17.09
+2187	Aedermannsdorf	SO	17.11
+2188	Lajoux (JU)	JU	17.11
+2189	Les Enfers	JU	17.11
+2190	Beatenberg	BE	17.12
+2191	Guggisberg	BE	17.12
+2192	Lauterbrunnen	BE	17.12
+2193	Schattenhalb	BE	17.12
+2194	Cormoret	BE	17.13
+2195	Wengi	BE	17.13
+2196	Landiswil	BE	17.15
+2197	Niederried bei Interlaken	BE	17.15
+2198	Oeschenbach	BE	17.15
+2199	Perrefitte	BE	17.15
+2200	Röthenbach im Emmental	BE	17.15
+2201	Valbirse	BE	17.15
+2202	Degersheim	SG	17.19
+2203	Billens-Hennens	FR	17.20
+2204	Oberschrot	FR	17.20
+2205	Plaffeien	FR	17.20
+2206	Les Bois	JU	17.23
+2207	Oberried am Brienzersee	BE	17.28
+2208	Pleigne	JU	17.28
+2209	Clos du Doubs	JU	17.29
+2210	Erschwil	SO	17.29
+2211	Matzendorf	SO	17.29
+2212	Milvignes	NE	17.31
+2213	Rüti bei Büren	BE	17.31
+2214	Vellerat	JU	17.31
+2215	Zullwil	SO	17.35
+2216	Zumholz	FR	17.36
+2217	Courchapoix	JU	17.37
+2218	Courtedoux	JU	17.37
+2219	La Baroche	JU	17.37
+2220	Uebeschi	BE	17.37
+2221	Oberthal	BE	17.40
+2222	Mettembert	JU	17.41
+2223	Meltingen	SO	17.42
+2224	Damphreux	JU	17.44
+2225	Le Châtelard	FR	17.44
+2226	Rebévelier	BE	17.44
+2227	Courtelary	BE	17.45
+2228	Alle	JU	17.46
+2229	Bure	JU	17.46
+2230	Hasliberg	BE	17.47
+2231	Gorgier	NE	17.49
+2232	Les Brenets	NE	17.49
+2233	Neuchâtel	NE	17.49
+2234	Herbetswil	SO	17.51
+2235	Welschenrohr	SO	17.51
+2236	Renan (BE)	BE	17.52
+2237	Saulcy	JU	17.53
+2238	Cortébert	BE	17.55
+2239	Cortaillod	NE	17.58
+2240	Le Landeron	NE	17.58
+2241	Saint-Blaise	NE	17.58
+2242	Val-de-Ruz	NE	17.58
+2243	Jaun	FR	17.60
+2244	Montfaucon	JU	17.60
+2245	Rebeuvelier	JU	17.60
+2246	Mervelier	JU	17.62
+2247	Val Terbi	JU	17.62
+2248	Gänsbrunnen	SO	17.64
+2249	Saint-Brais	JU	17.65
+2250	Bevaix	NE	17.67
+2251	Valangin	NE	17.67
+2252	Vaumarcus	NE	17.67
+2253	Corban	JU	17.69
+2254	Sonvilier	BE	17.70
+2255	Movelier	JU	17.74
+2256	Walkringen	BE	17.75
+2257	Beurnevésin	JU	17.77
+2258	Bourrignon	JU	17.77
+2259	Grandfontaine	JU	17.77
+2260	Lugnez	JU	17.77
+2261	Rocourt	JU	17.77
+2262	Soubey	JU	17.77
+2263	Vendlincourt	JU	17.77
+2264	Schelten	BE	17.80
+2265	Kienberg	SO	17.82
+2266	Cornaux	NE	17.86
+2267	Le Locle	NE	17.86
+2268	Fahy	JU	17.93
+2269	Fresens	NE	17.95
+2270	Hauterive (NE)	NE	17.95
+2271	Rochefort	NE	17.95
+2272	Saint-Aubin-Sauges	NE	17.95
+2273	Coeuve	JU	17.97
+2274	Basse-Allaine	JU	18.02
+2275	Corcelles-Cormondrèche	NE	18.13
+2276	La Tène	NE	18.13
+2277	Peseux	NE	18.13
+2278	Boudry	NE	18.23
+2279	Enges	NE	18.23
+2280	Lignières	NE	18.23
+2281	Brot-Plamboz	NE	18.41
+2282	La Brévine	NE	18.41
+2283	La Chaux-de-Fonds	NE	18.41
+2284	La Chaux-du-Milieu	NE	18.41
+2285	La Côte-aux-Fées	NE	18.41
+2286	La Sagne	NE	18.41
+2287	Le Cerneux-Péquignot	NE	18.41
+2288	Les Ponts-de-Martel	NE	18.41
+2289	Holderbank (SO)	SO	18.49
+2290	Val-de-Travers	NE	18.50
+2291	Cressier (NE)	NE	18.59
+2292	Montalchez	NE	18.59
+2293	Les Planchettes	NE	18.69
+2294	Les Verrières	NE	18.78

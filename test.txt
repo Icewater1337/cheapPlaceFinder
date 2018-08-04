@@ -1,0 +1,6 @@
+Rang	Ort	Kanton	Steuersatz
+1	Baar	ZG	5.63
+2	Zug	ZG	5.75
+3	Walchwil	ZG	5.82
+4	Steinhausen	ZG	5.94
+5	Risch	ZG	6.00

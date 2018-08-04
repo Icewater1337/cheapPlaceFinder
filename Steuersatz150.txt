@@ -1,0 +1,90 @@
+1	Wollerau	SZ	7.02
+2	Feusisberg	SZ	7.35
+3	Freienbach	SZ	7.43
+4	Baar	ZG	8.79
+5	Zug	ZG	8.96
+6	Walchwil	ZG	9.08
+7	Altendorf	SZ	9.20
+8	Steinhausen	ZG	9.26
+9	Lachen	SZ	9.34
+10	Risch	ZG	9.35
+11	Cham	ZG	9.47
+12	Oberägeri	ZG	9.56
+13	Neuheim	ZG	9.68
+14	Hergiswil (NW)	NW	9.77
+15	Hünenberg	ZG	9.77
+16	Unterägeri	ZG	9.80
+17	Küssnacht (SZ)	SZ	9.83
+18	Menzingen	ZG	9.86
+19	Vorderthal	SZ	10.16
+20	Meggen	LU	10.32
+21	Riemenstalden	SZ	10.38
+22	Stansstad	NW	10.47
+23	Ennetbürgen	NW	10.56
+24	Oberdorf (NW)	NW	10.65
+25	Sarnen	OW	10.77
+26	Alpthal	SZ	10.92
+27	Lauerz	SZ	10.92
+28	Galgenen	SZ	10.98
+29	Innerthal	SZ	10.98
+30	Kilchberg (ZH)	ZH	10.98
+31	Rongellen	GR	10.98
+32	Rüschlikon	ZH	10.98
+33	Schattdorf	UR	10.99
+34	Seedorf (UR)	UR	11.00
+35	Muotathal	SZ	11.03
+36	Küsnacht (ZH)	ZH	11.04
+37	Steinerberg	SZ	11.06
+38	Herrliberg	ZH	11.10
+39	Winkel	ZH	11.10
+40	Engelberg	OW	11.12
+41	Bürglen (UR)	UR	11.15
+42	Erlenbach (ZH)	ZH	11.16
+43	Meilen	ZH	11.16
+44	Neerach	ZH	11.16
+45	Beckenried	NW	11.17
+46	Oberiberg	SZ	11.20
+47	Altdorf (UR)	UR	11.24
+48	Sattel	SZ	11.25
+49	Attinghausen	UR	11.32
+50	Zollikon	ZH	11.33
+51	Ingenbohl	SZ	11.41
+52	Appenzell	AI	11.42
+53	Flüelen	UR	11.43
+54	Unteriberg	SZ	11.47
+55	Bauen	UR	11.50
+56	Sachseln	OW	11.51
+57	Uitikon	ZH	11.51
+58	Zumikon	ZH	11.51
+59	Gersau	SZ	11.52
+60	Tuggen	SZ	11.52
+61	Wangen (SZ)	SZ	11.52
+62	Schwyz	SZ	11.55
+63	Celerina/Schlarigna	GR	11.57
+64	Thalwil	ZH	11.57
+65	Schongau	LU	11.59
+66	Arth	SZ	11.61
+67	Boppelsen	ZH	11.63
+68	Oberrieden	ZH	11.63
+69	Realp	UR	11.64
+70	Maur	ZH	11.69
+71	Oberwil-Lieli	AG	11.69
+72	Seuzach	ZH	11.69
+73	Wettswil am Albis	ZH	11.69
+74	Aesch (ZH)	ZH	11.75
+75	Horgen	ZH	11.81
+76	Uetikon am See	ZH	11.81
+77	Buochs	NW	11.85
+78	Kerns	OW	11.85
+79	Hospental	UR	11.86
+80	Dinhard	ZH	11.87
+81	Emmetten	NW	11.89
+82	Brütten	ZH	11.93
+83	Nürensdorf	ZH	11.93
+84	Reichenburg	SZ	11.93
+85	Rothenthurm	SZ	11.93
+86	Stans	NW	11.96
+87	Bottighofen	TG	11.99
+88	Lufingen	ZH	11.99
+89	Silenen	UR	11.99
+90	Stäfa	ZH	11.99
