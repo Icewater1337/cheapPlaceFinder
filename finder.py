@@ -10,6 +10,10 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from time import sleep
 
+api_key = "AIzaSyAn1t3ZQOJL2su36ZL-RZi34TSJBgXSNUc"
+
+
+
 def comparisRequests(place):
      #// *[ @ id = "txLocationSearchString"]
     #https: // www.comparis.ch / immobilien / default
@@ -85,6 +89,10 @@ def getConnectionsFromList(lst):
     place = lst[1]
     return lst[3], lst[1], getConnections('http://transport.opendata.ch/v1/connections?from=' + workPlace + '&to=' + place)
 
+def getConnectionsFromListMap(lst):
+    workPlace = 'Bern'
+    place = lst[1]
+    return lst[3], lst[1], getConnections(mapsUrl)
 
 
 
@@ -102,6 +110,8 @@ def readCsv(path):
 def getConnections(url):
     return requests.get(url).json()
 
+def getDurationFromGoogleMapsJsonInMinutes(json):
+    return json["rows"][0]["elements"][0]["duration"]["value"]
 
 def getDurationFromJsonInMinutes(json, connectionNbr):
     durationString = json.get("connections")[connectionNbr].get("duration")
@@ -122,7 +132,8 @@ def getCheapestPlaceWithinDuration(maxDuration, jsonReqs):
     for tax, place, jsonRequest in jsonReqs:
         # make thread
 
-        duratiion = getDurationFromJsonInMinutes(jsonRequest, 0)
+        #duratiion = getDurationFromJsonInMinutes(jsonRequest, 0)
+        duratiion = getDurationFromGoogleMapsJsonInMinutes(jsonRequest)
         if duratiion <= maxDuration:
             if tax < cheapest:
                 cheapest = tax
@@ -141,15 +152,17 @@ def load_obj(name ):
         return pickle.load(f)
 
 if __name__ == '__main__':
-    p = Pool(50)
+    p = Pool(5)
     #comparisRequests("zürich")
 
     lst = readCsv("Steuersatz100.txt")
-    lst = lst[0:150]
+    #lst = lst[0:150]
     #lst = readCsv("SteuersatzTo900.txt")
     #fz = p.map(getConnectionsFromList, lst)
+    #fz = p.map(getConnectionsFromListMap, lst)
+    #save_obj(fz ,"durationsToPlacesGoogleMaps")
     fz = p.map(comparisRequests, lst)
- #   cheapestTax, cheapestName, cheapestDuration = getCheapestPlaceWithinDuration(60, fz)
-    save_obj(fz, "1800ToLastBern")
+    cheapestTax, cheapestName, cheapestDuration = getCheapestPlaceWithinDuration(60, fz)
+    save_obj(fz, "PricesBern")
 
 #jsonRequest = getConnections('http://transport.opendata.ch/v1/connections?from=Lausanne&to=Genève')
