@@ -70,3 +70,100 @@
 [0804/161148.006:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
 [0804/161149.170:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
 [0804/161735.727:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/185126.521:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/185126.518:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/185126.372:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/185126.516:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/185126.330:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/185126.329:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/185126.330:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/185540.548:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir32896_3150\Crashpad: The system cannot find the path specified. (0x3)
+[0513/185540.987:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0513/185540.988:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir32896_3150\Crashpad: The system cannot find the path specified. (0x3)
+[0513/185556.385:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir30792_4199\Crashpad: The system cannot find the path specified. (0x3)
+[0513/185559.542:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0513/185559.543:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir30792_4199\Crashpad: The system cannot find the path specified. (0x3)
+[0513/190011.256:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir23136_935\Crashpad: The system cannot find the path specified. (0x3)
+[0513/190011.257:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir29100_10510\Crashpad: The system cannot find the path specified. (0x3)
+[0513/190011.343:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir17672_25011\Crashpad: The system cannot find the path specified. (0x3)
+[0513/190014.212:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir25728_26018\Crashpad: The system cannot find the path specified. (0x3)
+[0513/190014.306:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir30140_12085\Crashpad: The system cannot find the path specified. (0x3)
+[0513/190014.419:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir34520_17103\Crashpad: The system cannot find the path specified. (0x3)
+[0513/190014.439:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir47956_19639\Crashpad: The system cannot find the path specified. (0x3)
+[0513/190014.481:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0513/190014.482:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir23136_935\Crashpad: The system cannot find the path specified. (0x3)
+[0513/190014.657:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0513/190014.658:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir17672_25011\Crashpad: The system cannot find the path specified. (0x3)
+[0513/190014.724:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0513/190014.725:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir29100_10510\Crashpad: The system cannot find the path specified. (0x3)
+[0513/190017.258:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0513/190017.259:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir25728_26018\Crashpad: The system cannot find the path specified. (0x3)
+[0513/190017.504:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0513/190017.505:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir30140_12085\Crashpad: The system cannot find the path specified. (0x3)
+[0513/190018.393:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0513/190018.394:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir34520_17103\Crashpad: The system cannot find the path specified. (0x3)
+[0513/190018.406:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0513/190018.407:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir47956_19639\Crashpad: The system cannot find the path specified. (0x3)
+[0513/190453.411:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190503.438:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190521.266:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190521.314:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190521.367:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190521.504:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190521.520:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190521.596:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190521.600:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190521.603:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190521.718:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190521.863:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190522.001:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190522.005:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190522.045:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190547.187:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190547.693:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190547.753:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190547.754:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190547.945:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190548.038:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190554.625:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190556.604:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190556.605:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190556.671:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190556.724:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190556.985:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190557.122:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190557.122:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190558.937:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190559.151:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190559.151:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190601.489:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190601.341:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190601.185:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190600.722:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190600.558:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190600.374:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190600.122:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190559.993:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190559.954:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190559.870:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190559.860:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190840.884:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/190958.985:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Icewater\AppData\Local\Temp\scoped_dir19544_5667\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0513/190959.230:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Icewater\AppData\Local\Temp\scoped_dir21496_18585\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0513/191000.907:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir47592_15009\Crashpad: The system cannot find the path specified. (0x3)
+[0513/191001.432:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir54000_18140\Crashpad: The system cannot find the path specified. (0x3)
+[0513/191002.870:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0513/191003.571:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0513/191003.572:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir21496_18585\Crashpad: The system cannot find the path specified. (0x3)
+[0513/191004.251:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0513/191004.252:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir47592_15009\Crashpad: The system cannot find the path specified. (0x3)
+[0513/191004.399:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0513/191004.400:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Icewater\AppData\Local\Temp\scoped_dir54000_18140\Crashpad: The system cannot find the path specified. (0x3)
+[0513/191014.683:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/191018.685:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/191018.736:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/191019.450:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/191020.921:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/191020.990:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/191031.787:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/191525.941:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
